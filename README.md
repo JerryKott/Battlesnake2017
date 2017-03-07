@@ -10,4 +10,7 @@ The code here is exactly as run in the competition, for a snake named Medusa. A 
 You can read the **Battlesnake Bundle.pst** file but it's meant for a computer consumption, not really for humans. The **Battlesnake Bundle.pcl** file is the Smalltalk binary code. The two files are two different representations of the same thing. To be able to browse all the code, you will need a **VisualWorks 8.2 IDE**. A Personal Use License can be obtained at no cost from [Cincom Smalltalk web site](http://www.cincomsmalltalk.com/main/developer-community/trying-cincom-smalltalk/try-cincom-smalltalk/). VisualWorks is a cross-platform application development environment that runs on all major operating systems and CPU architecture - yes, even on a Raspberry Pi.
 Once installed, and the IDE is up and running, you can load the **Battlesnake Bundle.pcl** parcel file to browse through the code and see the strategies and the algorithms used in the competition.
 
+###Can I run the code?
+Well... you can run some of the unit tests to see the API in action. However, you won't be able to run an **actual game**, as that would require registration and login through the [battlensake game server](http://app.battlesnake.io) which I think cannot be done outside of the actual competition.
+
 **Happy Browsing!**
