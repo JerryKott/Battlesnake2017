@@ -3,7 +3,7 @@ Repository for the battlesnake competition code written in Cincom Smalltalk. Thi
 
 
 ###The files
-The two files here are a **parcel** file (BattlesnakeBundle.pcl) and a **source** (BattlesnakeBundle.pst) of the code written for the annual battlesnake code competition held in Victoria, British Columbia, Canada. Check out [battlesnake web site](battlesnake.io) for details about the competition.
+The two files here are a **parcel** file (BattlesnakeBundle.pcl) and a **source** (BattlesnakeBundle.pst) of the code written for the annual battlesnake code competition held in Victoria, British Columbia, Canada. Check out [battlesnake web site](http://battlesnake.io) for details about the competition.
 The code here is exactly as run in the competition, for a snake named Medusa. A lot of it was written in a bit of a hurry, so it may not be commented up to the usual standards.
 
 ###How to read the code:
